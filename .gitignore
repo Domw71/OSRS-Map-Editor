@@ -1,0 +1,24 @@
+# Build output
+/target/
+*.class
+
+# IDE
+/.idea/
+*.iml
+/.vscode/
+/.settings/
+/.project
+/.classpath
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local cache / server data (never commit game caches or keys)
+*.dat2
+*.idx
+*.idx*
+xteas*.json
+region_keys.json
+/data/
+/cache/
